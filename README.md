@@ -30,9 +30,10 @@ The Llama-3 Groq model is used here to translate the generated captions into for
 
 Arabic-TTS synthesizes the Arabic captions into speech with high clarity.
 
-## Using the Gradio Interface
+## Example
+![Preview of the Project](images/sample-image.png)
 
-This project includes an inference script using Gradio, which provides an interactive interface for uploading images and receiving Arabic speech output.
+[Listen to the Audio](audio/sample-audio.mp3)
 
 ## How to Use
 
